@@ -1,8 +1,12 @@
-# Hi there, I'm tsz7250 👋
-
-> 軟體開發 | 網頁應用 | AI 聊天機器人
-
-歡迎來到我的 GitHub 個人頁面！這裡展示了我在軟體開發、網頁應用與 AI 聊天機器人領域的學習成果與實作專案。
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&size=30&pause=1000&color=36BCF7&width=600&lines=你好，我是+tsz7250&repeat=false" alt="Typing SVG" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&size=20&pause=1000&color=36BCF7&width=600&multiline=true&height=80&lines=這裡展示了我在軟體開發、網頁應用;與+AI+聊天機器人領域的學習成果與實作專案。" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
