@@ -60,13 +60,15 @@ def generate_markdown(lists):
         
         for item in lst['items']['nodes']:
             if 'name' in item:
-                desc = f" - {item['description']}" if item['description'] else ""
                 # Add language badge or text if available
                 lang = ""
                 if item.get('primaryLanguage'):
                     lang = f" ` {item['primaryLanguage']['name']} `"
                 
-                md += f"- [**{item['name']}**]({item['url']}){lang}{desc}\n"
+                md += f"- [**{item['name']}**]({item['url']}){lang}  \n"
+                if item['description']:
+                    md += f"  {item['description']}\n"
+                md += "\n"
         md += "\n"
     return md
 
