@@ -1,11 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&size=30&pause=1000&color=36BCF7&width=600&lines=你好，我是+tsz7250&repeat=false" alt="Typing SVG" />
-  </a>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&size=20&pause=1000&color=36BCF7&width=600&multiline=true&height=80&lines=這裡展示了我在軟體開發、網頁應用;與+AI+聊天機器人領域的學習成果與實作專案。" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&size=20&pause=1000&color=36BCF7&width=900&multiline=true&height=60&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+tsz7250;%E9%80%99%E8%A3%A1%E5%B1%95%E7%A4%BA%E4%BA%86%E6%88%91%E5%9C%A8%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E3%80%81%E7%B6%B2%E9%A0%81%E6%87%89%E7%94%A8%E8%88%87+AI+%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%A0%98%E5%9F%9F%E7%9A%84%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E8%88%87%E5%AF%A6%E4%BD%9C%E5%B0%88%E6%A1%88%E3%80%82&random=5" alt="Typing SVG" />
 </div>
 
 ---
@@ -29,9 +23,9 @@
 
 ## 📊 GitHub 統計
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsz7250&show_icons=true&theme=radical" height="180" alt="tsz7250's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsz7250&layout=compact&theme=radical" height="180" alt="Top Languages" />
+<div align="left" style="margin: 0; padding: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsz7250&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="350" alt="tsz7250's GitHub Stats" style="display: inline-block; margin: 0; padding: 0; border: 0; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsz7250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true" height="350" alt="Top Languages" style="display: inline-block; margin: 0; padding: 0; border: 0; vertical-align: top;" />
 </div>
 
 ---
