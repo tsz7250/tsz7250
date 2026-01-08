@@ -13,7 +13,7 @@ query = """
       nodes {
         name
         description
-        url
+        slug
         items(first: 5) {
           nodes {
             ... on Repository {
@@ -53,7 +53,8 @@ def generate_markdown(lists):
         return "_No public lists found._\n"
 
     for lst in lists:
-        md += f"### 📂 [{lst['name']}]({lst['url']})\n"
+        list_url = f"https://github.com/stars/{USERNAME}/lists/{lst['slug']}"
+        md += f"### 📂 [{lst['name']}]({list_url})\n"
         if lst['description']:
             md += f"> {lst['description']}\n\n"
         
