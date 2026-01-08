@@ -35,6 +35,25 @@
 ## 📂 精選清單
 
 <!-- START_GITHUB_LISTS -->
+### 📂 [Side Projects](https://github.com/stars/tsz7250/lists/side-projects)
+- [**Currency_chart**](https://github.com/tsz7250/Currency_chart) ` Python `
+- [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `
+- [**yzuCourseBot**](https://github.com/tsz7250/yzuCourseBot) ` Python ` - 元智選課機器人
+- [**WannaClass**](https://github.com/tsz7250/WannaClass) ` JavaScript `
+- [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Batchfile `
+
+### 📂 [Group Projects](https://github.com/stars/tsz7250/lists/group-projects)
+- [**1131_Chatbot_Final**](https://github.com/tsz7250/1131_Chatbot_Final) ` Python `
+- [**1122_Web_Final**](https://github.com/tsz7250/1122_Web_Final) ` HTML `
+- [**1111_WebProgramming_Final**](https://github.com/tsz7250/1111_WebProgramming_Final) ` HTML `
+
+### 📂 [Homeworks](https://github.com/stars/tsz7250/lists/homeworks)
+- [**1131_Chatbot**](https://github.com/tsz7250/1131_Chatbot) ` Python `
+- [**1121_LinearAlgebra**](https://github.com/tsz7250/1121_LinearAlgebra) ` C# `
+- [**1122_HDL**](https://github.com/tsz7250/1122_HDL) ` VHDL `
+- [**1122_WebsiteProgrammingPractice**](https://github.com/tsz7250/1122_WebsiteProgrammingPractice) ` JavaScript `
+- [**1122_AssemblyLanguage**](https://github.com/tsz7250/1122_AssemblyLanguage) ` Assembly `
+
 <!-- END_GITHUB_LISTS -->
 
 ---
