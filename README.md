@@ -46,7 +46,7 @@
 - [**WannaClass**](https://github.com/tsz7250/WannaClass) ` JavaScript `  
   重新調整原有的 WannaClass Electron 框架，優化課表查詢功能，同時整合 yzuCourseBot，為 WannaClass 加入自動選課功能。
 
-- [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Batchfile `  
+- [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
   用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
 
 
