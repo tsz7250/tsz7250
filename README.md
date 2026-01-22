@@ -24,8 +24,8 @@
 ## 📊 GitHub 統計
 
 <div align="left" style="margin: 0; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsz7250&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="350" alt="tsz7250's GitHub Stats" style="display: inline-block; margin: 0; padding: 0; border: 0; vertical-align: top;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsz7250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true" height="350" alt="Top Languages" style="display: inline-block; margin: 0; padding: 0; border: 0; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsz7250&rank_icon=github&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="350" alt="tsz7250's GitHub Stats" style="display: inline-block; margin: 0; padding: 0; border: 0; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsz7250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&exclude_repo=1122_HDL" height="350" alt="Top Languages" style="display: inline-block; margin: 0; padding: 0; border: 0; vertical-align: top;" />
 </div>
 
 ---
