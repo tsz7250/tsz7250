@@ -8,18 +8,20 @@ TOKEN = os.environ.get("GH_TOKEN")
 
 query = """
 {
-  user(login: "%s") {
-    lists(first: 5) {
+    user(login: "%s") {
+    lists(first: 100) {
       nodes {
         name
         description
         slug
-        items(first: 5) {
+        updatedAt
+        items(first: 100) {
           nodes {
             ... on Repository {
               name
               url
               description
+              updatedAt
               primaryLanguage {
                 name
               }
@@ -52,13 +54,20 @@ def generate_markdown(lists):
     if not lists:
         return "_No public lists found._\n"
 
-    for lst in lists:
+    # Sort lists by updatedAt descending
+    sorted_lists = sorted(lists, key=lambda x: x.get('updatedAt', ''), reverse=True)
+    
+    for lst in sorted_lists[:5]:  # Show top 5 lists
         list_url = f"https://github.com/stars/{USERNAME}/lists/{lst['slug']}"
         md += f"### 📂 [{lst['name']}]({list_url})\n"
         if lst['description']:
             md += f"> {lst['description']}\n\n"
         
-        for item in lst['items']['nodes']:
+        # Sort items by updatedAt descending
+        items = lst['items']['nodes']
+        sorted_items = sorted(items, key=lambda x: x.get('updatedAt', ''), reverse=True)
+        
+        for item in sorted_items[:5]:  # Show top 5 items per list
             if 'name' in item:
                 # Add language badge or text if available
                 lang = ""
