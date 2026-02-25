@@ -22,6 +22,7 @@ query = """
               url
               description
               updatedAt
+              stargazerCount
               primaryLanguage {
                 name
               }
@@ -63,9 +64,9 @@ def generate_markdown(lists):
         if lst['description']:
             md += f"> {lst['description']}\n\n"
         
-        # Sort items by updatedAt descending
+        # Sort items by stargazerCount descending, then updatedAt descending
         items = lst['items']['nodes']
-        sorted_items = sorted(items, key=lambda x: x.get('updatedAt', ''), reverse=True)
+        sorted_items = sorted(items, key=lambda x: (x.get('stargazerCount', 0), x.get('updatedAt', '')), reverse=True)
         
         for item in sorted_items[:5]:  # Show top 5 items per list
             if 'name' in item:
@@ -74,7 +75,9 @@ def generate_markdown(lists):
                 if item.get('primaryLanguage'):
                     lang = f" ` {item['primaryLanguage']['name']} `"
                 
-                md += f"- [**{item['name']}**]({item['url']}){lang}  \n"
+                stars = f" ⭐ {item.get('stargazerCount', 0)}" if item.get('stargazerCount') else ""
+                
+                md += f"- [**{item['name']}**]({item['url']}){lang}{stars}  \n"
                 if item['description']:
                     md += f"  {item['description']}\n"
                 md += "\n"
