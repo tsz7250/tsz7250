@@ -34,46 +34,47 @@
 
 <!-- START_GITHUB_LISTS -->
 ### 📂 [Side Projects](https://github.com/stars/tsz7250/lists/side-projects)
-- [**Coursio**](https://github.com/tsz7250/Coursio) ` JavaScript `  
-
-- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` HTML `  
-  一個以 LINE Bot + Google Apps Script (GAS) 打造的聖經讀經打卡應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
-
-- [**yzuCourseBot**](https://github.com/tsz7250/yzuCourseBot) ` Python `  
+- [**yzuCourseBot**](https://github.com/tsz7250/yzuCourseBot) ` Python ` ⭐ 4  
   自動選課機器人，並基於原始 yzuCourseBot 進行 fork 並針對 Windows 環境優化的版本。
 
-- [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `  
-  基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
+- [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell ` ⭐ 2  
+  用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
 
-- [**ezoe-work_scraper**](https://github.com/tsz7250/ezoe-work_scraper) ` Python `  
-  針對 ezoe.work 抓取文章，並輸出為格式化的 DOCX 與 PDF。
+- [**Coursio**](https://github.com/tsz7250/Coursio) ` JavaScript ` ⭐ 1  
+  參考 WannaClass 的框架進行重構，並優化課表查詢功能、自動選課等功能。 
+
+- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` HTML ` ⭐ 1  
+  一個以 LINE Bot + Google Apps Script (GAS) 打造的聖經讀經打卡應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
+
+- [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript ` ⭐ 1  
+  基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
 
 
 ### 📂 [Homeworks](https://github.com/stars/tsz7250/lists/homeworks)
-- [**1131_Chatbot**](https://github.com/tsz7250/1131_Chatbot) ` Python `  
+- [**1131_Chatbot**](https://github.com/tsz7250/1131_Chatbot) ` Python ` ⭐ 1  
   AI 聊天機器人集合：包含 Gemini 網頁聊天機器人、Line Bot、情感分析機器人、翻譯機器人、文字轉語音機器人等。
 
-- [**1122_WebsiteProgrammingPractice**](https://github.com/tsz7250/1122_WebsiteProgrammingPractice) ` JavaScript `  
+- [**1122_WebsiteProgrammingPractice**](https://github.com/tsz7250/1122_WebsiteProgrammingPractice) ` JavaScript ` ⭐ 1  
   網頁開發作業：驗證碼系統、資料處理（.csv/.xml）、Google Charts 折線圖、篩選查詢等。
 
-- [**1112_ComputerProgramming**](https://github.com/tsz7250/1112_ComputerProgramming) ` C++ `  
+- [**1112_ComputerProgramming**](https://github.com/tsz7250/1112_ComputerProgramming) ` C++ ` ⭐ 1  
   C++ 物件導向：Fibonacci Sequence、編碼機、Graph 和 Spanning Tree、撲克牌遊戲、多型計算四邊形。
 
-- [**1122_HDL**](https://github.com/tsz7250/1122_HDL) ` VHDL `  
+- [**1122_HDL**](https://github.com/tsz7250/1122_HDL) ` VHDL ` ⭐ 1  
   VHDL 數位電路設計：包含 ALU、狀態機、計數器、LED 控制、紅綠燈控制等 15 個實驗專案。
 
-- [**1121_LinearAlgebra**](https://github.com/tsz7250/1121_LinearAlgebra) ` C# `  
+- [**1121_LinearAlgebra**](https://github.com/tsz7250/1121_LinearAlgebra) ` C# ` ⭐ 1  
   線性代數應用專案：整數線性規劃 (ILP)、C# 幾何測量系統、點燈遊戲、RREF 簡化階梯形矩陣計算器。
 
 
 ### 📂 [Group Projects](https://github.com/stars/tsz7250/lists/group-projects)
-- [**1122_Web_Final**](https://github.com/tsz7250/1122_Web_Final) ` HTML `  
+- [**1122_Web_Final**](https://github.com/tsz7250/1122_Web_Final) ` HTML ` ⭐ 1  
   使用 Python Flask 框架開發的餐廳訂餐系統模擬應用程式，並應用了 PlotlyJS、Google Gemini、HTML5 Canvas 等技術。
 
-- [**1131_Chatbot_Final**](https://github.com/tsz7250/1131_Chatbot_Final) ` Python `  
+- [**1131_Chatbot_Final**](https://github.com/tsz7250/1131_Chatbot_Final) ` Python ` ⭐ 1  
   多模態聊天機器人，整合了電影相關的 AI 服務，包括智能對話、電影搜尋、圖片識別和字幕翻譯等功能。
 
-- [**1111_WebProgramming_Final**](https://github.com/tsz7250/1111_WebProgramming_Final) ` HTML `  
+- [**1111_WebProgramming_Final**](https://github.com/tsz7250/1111_WebProgramming_Final) ` HTML ` ⭐ 1  
   製作隨機選擇器，功能有進行食物類別、餐廳篩選的學餐隨機選擇器。使用者可以註冊帳號，使用記帳功能。
 
 
