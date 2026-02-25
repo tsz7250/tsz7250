@@ -75,9 +75,7 @@ def generate_markdown(lists):
                 if item.get('primaryLanguage'):
                     lang = f" ` {item['primaryLanguage']['name']} `"
                 
-                stars = f" ⭐ {item.get('stargazerCount', 0)}" if item.get('stargazerCount') else ""
-                
-                md += f"- [**{item['name']}**]({item['url']}){lang}{stars}  \n"
+                md += f"- [**{item['name']}**]({item['url']}){lang}  \n"
                 if item['description']:
                     md += f"  {item['description']}\n"
                 md += "\n"
