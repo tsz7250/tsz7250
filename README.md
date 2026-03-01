@@ -40,14 +40,14 @@
 - [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
   用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
 
+- [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `  
+  基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
+
 - [**Coursio**](https://github.com/tsz7250/Coursio) ` JavaScript `  
   參考 WannaClass 的框架進行重構，並優化課表查詢功能、自動選課等功能。 
 
 - [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` HTML `  
   一個以 LINE Bot + Google Apps Script (GAS) 打造的聖經讀經打卡應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
-
-- [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `  
-  基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
 
 
 ### 📂 [Homeworks](https://github.com/stars/tsz7250/lists/homeworks)
@@ -68,11 +68,11 @@
 
 
 ### 📂 [Group Projects](https://github.com/stars/tsz7250/lists/group-projects)
-- [**1122_Web_Final**](https://github.com/tsz7250/1122_Web_Final) ` HTML `  
-  使用 Python Flask 框架開發的餐廳訂餐系統模擬應用程式，並應用了 PlotlyJS、Google Gemini、HTML5 Canvas 等技術。
-
 - [**1131_Chatbot_Final**](https://github.com/tsz7250/1131_Chatbot_Final) ` Python `  
   多模態聊天機器人，整合了電影相關的 AI 服務，包括智能對話、電影搜尋、圖片識別和字幕翻譯等功能。
+
+- [**1122_Web_Final**](https://github.com/tsz7250/1122_Web_Final) ` HTML `  
+  使用 Python Flask 框架開發的餐廳訂餐系統模擬應用程式，並應用了 PlotlyJS、Google Gemini、HTML5 Canvas 等技術。
 
 - [**1111_WebProgramming_Final**](https://github.com/tsz7250/1111_WebProgramming_Final) ` HTML `  
   製作隨機選擇器，功能有進行食物類別、餐廳篩選的學餐隨機選擇器。使用者可以註冊帳號，使用記帳功能。
