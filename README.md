@@ -40,14 +40,14 @@
 - [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
   用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
 
+- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` HTML `  
+  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
+
 - [**Coursio**](https://github.com/tsz7250/Coursio) ` JavaScript `  
   參考 WannaClass 的框架進行重構，並優化課表查詢功能、自動選課等功能。 
 
 - [**ezoe-work_scraper**](https://github.com/tsz7250/ezoe-work_scraper) ` Python `  
   針對 ezoe.work 抓取文章，並輸出為格式化的 DOCX 與 PDF。
-
-- [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `  
-  基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
 
 
 ### 📂 [Homeworks](https://github.com/stars/tsz7250/lists/homeworks)
