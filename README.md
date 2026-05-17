@@ -35,7 +35,7 @@
 <!-- START_GITHUB_LISTS -->
 ### 📂 [Side Projects](https://github.com/stars/tsz7250/lists/side-projects)
 - [**yzuCourseBot**](https://github.com/tsz7250/yzuCourseBot) ` Python `  
-  自動選課機器人，並基於原始 yzuCourseBot 進行 fork 並針對 Windows 環境優化的版本。
+  自動選課機器人，並基於原始 yzuCourseBot 進行 fork 並針對 Windows 與 macOS 環境進行優化與整合。
 
 - [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
   用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
