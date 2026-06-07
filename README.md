@@ -33,9 +33,23 @@
 ## 📂 精選清單
 
 <!-- START_GITHUB_LISTS -->
+### 📂 [Final Projects](https://github.com/stars/tsz7250/lists/final-projects)
+- [**1142_OpenPlatformSoftware_Final**](https://github.com/tsz7250/1142_OpenPlatformSoftware_Final) ` Python `  
+  基於混合檢索與 LLM 技術之專利問答系統，專為中華民國智慧財產局（TIPO）專利常見問答 (FAQ) 開放資料集打造。
+
+- [**1131_Chatbot_Final**](https://github.com/tsz7250/1131_Chatbot_Final) ` Python `  
+  多模態聊天機器人，整合了電影相關的 AI 服務，包括智能對話、電影搜尋、圖片識別和字幕翻譯等功能。
+
+- [**1122_Web_Final**](https://github.com/tsz7250/1122_Web_Final) ` HTML `  
+  使用 Python Flask 框架開發的餐廳訂餐系統模擬應用程式，並應用了 PlotlyJS、Google Gemini、HTML5 Canvas 等技術。
+
+- [**1111_WebProgramming_Final**](https://github.com/tsz7250/1111_WebProgramming_Final) ` HTML `  
+  製作隨機選擇器，功能有進行食物類別、餐廳篩選的學餐隨機選擇器。使用者可以註冊帳號，使用記帳功能。
+
+
 ### 📂 [Side Projects](https://github.com/stars/tsz7250/lists/side-projects)
 - [**yzuCourseBot**](https://github.com/tsz7250/yzuCourseBot) ` Python `  
-  自動選課機器人，並基於原始 yzuCourseBot 進行 fork 並針對 Windows 與 macOS 環境進行優化與整合。
+  本專案基於原始 yzuCourseBot 進行 fork 並針對 Windows、macOS、Android 與 iOS 環境進行優化與整合。
 
 - [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
   用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
@@ -65,17 +79,6 @@
 
 - [**1121_LinearAlgebra**](https://github.com/tsz7250/1121_LinearAlgebra) ` C# `  
   線性代數應用專案：整數線性規劃 (ILP)、C# 幾何測量系統、點燈遊戲、RREF 簡化階梯形矩陣計算器。
-
-
-### 📂 [Group Projects](https://github.com/stars/tsz7250/lists/group-projects)
-- [**1131_Chatbot_Final**](https://github.com/tsz7250/1131_Chatbot_Final) ` Python `  
-  多模態聊天機器人，整合了電影相關的 AI 服務，包括智能對話、電影搜尋、圖片識別和字幕翻譯等功能。
-
-- [**1122_Web_Final**](https://github.com/tsz7250/1122_Web_Final) ` HTML `  
-  使用 Python Flask 框架開發的餐廳訂餐系統模擬應用程式，並應用了 PlotlyJS、Google Gemini、HTML5 Canvas 等技術。
-
-- [**1111_WebProgramming_Final**](https://github.com/tsz7250/1111_WebProgramming_Final) ` HTML `  
-  製作隨機選擇器，功能有進行食物類別、餐廳篩選的學餐隨機選擇器。使用者可以註冊帳號，使用記帳功能。
 
 
 <!-- END_GITHUB_LISTS -->
