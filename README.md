@@ -54,14 +54,14 @@
 - [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
   用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
 
+- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` JavaScript `  
+  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
+
 - [**Coursio**](https://github.com/tsz7250/Coursio) ` JavaScript `  
   參考 WannaClass 的框架進行重構，並優化課表查詢功能、自動選課等功能。 
 
 - [**Currency_chart**](https://github.com/tsz7250/Currency_chart) ` Python `  
   使用 Python Flask 框架開發多幣種匯率走勢圖，支援近 7／30／90／180 天圖表、幣別搜尋與交換，並在背景自動更新資料。
-
-- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` HTML `  
-  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
 
 
 ### 📂 [Homeworks](https://github.com/stars/tsz7250/lists/homeworks)
