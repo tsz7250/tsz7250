@@ -33,7 +33,7 @@
 ## 📂 精選清單
 
 <!-- START_GITHUB_LISTS -->
-### 📂 [Final Projects](https://github.com/stars/tsz7250/lists/final-projects)
+### 📂 [UG-Final Projects](https://github.com/stars/tsz7250/lists/ug-final-projects)
 - [**1142_OpenPlatformSoftware_Final**](https://github.com/tsz7250/1142_OpenPlatformSoftware_Final) ` Python `  
   基於混合檢索與 LLM 技術之專利問答系統，專為中華民國智慧財產局（TIPO）專利常見問答 (FAQ) 開放資料集打造。
 
@@ -47,24 +47,9 @@
   製作隨機選擇器，功能有進行食物類別、餐廳篩選的學餐隨機選擇器。使用者可以註冊帳號，使用記帳功能。
 
 
-### 📂 [Side Projects](https://github.com/stars/tsz7250/lists/side-projects)
-- [**yzuCourseBot**](https://github.com/tsz7250/yzuCourseBot) ` Python `  
-  本專案基於原始 yzuCourseBot 進行 fork 並針對 Windows、macOS、Android 與 iOS 環境進行優化與整合。
+### 📂 [UG-Homeworks](https://github.com/stars/tsz7250/lists/ug-homeworks)
+- [**1142_AI-assistedSoftwareDevelopment**](https://github.com/tsz7250/1142_AI-assistedSoftwareDevelopment) ` C++ `  
 
-- [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
-  用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
-
-- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` JavaScript `  
-  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
-
-- [**Coursio**](https://github.com/tsz7250/Coursio) ` JavaScript `  
-  參考 WannaClass 的框架進行重構，並優化課表查詢功能、自動選課等功能。 
-
-- [**Currency_chart**](https://github.com/tsz7250/Currency_chart) ` Python `  
-  使用 Python Flask 框架開發多幣種匯率走勢圖，支援近 7／30／90／180 天圖表、幣別搜尋與交換，並在背景自動更新資料。
-
-
-### 📂 [Homeworks](https://github.com/stars/tsz7250/lists/homeworks)
 - [**1131_Chatbot**](https://github.com/tsz7250/1131_Chatbot) ` Python `  
   AI 聊天機器人集合：包含 Gemini 網頁聊天機器人、Line Bot、情感分析機器人、翻譯機器人、文字轉語音機器人等。
 
@@ -77,8 +62,22 @@
 - [**1122_HDL**](https://github.com/tsz7250/1122_HDL) ` VHDL `  
   VHDL 數位電路設計：包含 ALU、狀態機、計數器、LED 控制、紅綠燈控制等 15 個實驗專案。
 
-- [**1121_LinearAlgebra**](https://github.com/tsz7250/1121_LinearAlgebra) ` C# `  
-  線性代數應用專案：整數線性規劃 (ILP)、C# 幾何測量系統、點燈遊戲、RREF 簡化階梯形矩陣計算器。
+
+### 📂 [Side Projects](https://github.com/stars/tsz7250/lists/side-projects)
+- [**yzuCourseBot**](https://github.com/tsz7250/yzuCourseBot) ` Python `  
+  本專案基於原始 yzuCourseBot 進行 fork 並針對 Windows、macOS、Android 與 iOS 環境進行優化與整合。
+
+- [**Coursio**](https://github.com/tsz7250/Coursio) ` JavaScript `  
+  參考 WannaClass 的框架進行重構，並優化課表查詢功能、自動選課等功能。 
+
+- [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
+  用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
+
+- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` JavaScript `  
+  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
+
+- [**Currency_chart**](https://github.com/tsz7250/Currency_chart) ` Python `  
+  使用 Python Flask 框架開發多幣種匯率走勢圖，支援近 7／30／90／180 天圖表、幣別搜尋與交換，並在背景自動更新資料。
 
 
 <!-- END_GITHUB_LISTS -->
