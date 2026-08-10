@@ -87,6 +87,6 @@
 
 <div align="center">
   <h3>
-    <a href="https://tsz7250.github.io/Portfolio/">👉 查看完整作品集 👈</a>
+    <a href="https://tsz7250.github.io">👉 查看完整作品集 👈</a>
   </h3>
 </div>
