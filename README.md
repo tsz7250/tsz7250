@@ -49,6 +49,7 @@
 
 ### 📂 [UG-Homeworks](https://github.com/stars/tsz7250/lists/ug-homeworks)
 - [**1142_AI-assistedSoftwareDevelopment**](https://github.com/tsz7250/1142_AI-assistedSoftwareDevelopment) ` C++ `  
+  應用 AI 輔助軟體開發生命週期，包含需求、設計、測試、CI/CD 與 Docker 部署。實作 Two Sum 演算法與 CSV 查詢引擎。
 
 - [**1131_Chatbot**](https://github.com/tsz7250/1131_Chatbot) ` Python `  
   AI 聊天機器人集合：包含 Gemini 網頁聊天機器人、Line Bot、情感分析機器人、翻譯機器人、文字轉語音機器人等。
