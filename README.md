@@ -33,6 +33,11 @@
 ## 📂 精選清單
 
 <!-- START_GITHUB_LISTS -->
+### 📂 [Browser Extension](https://github.com/stars/tsz7250/lists/browser-extension)
+- [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `  
+  基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
+
+
 ### 📂 [UG-Final Projects](https://github.com/stars/tsz7250/lists/ug-final-projects)
 - [**1142_OpenPlatformSoftware_Final**](https://github.com/tsz7250/1142_OpenPlatformSoftware_Final) ` Python `  
   基於混合檢索與 LLM 技術之專利問答系統，專為中華民國智慧財產局（TIPO）專利常見問答 (FAQ) 開放資料集打造。
