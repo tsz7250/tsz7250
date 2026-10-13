@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=tsz7250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&exclude_repo=1122_HDL,1122_AssemblyLanguage
+          options: username=tsz7250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&exclude_repo=undergrad-archive
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
