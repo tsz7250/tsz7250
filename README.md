@@ -33,6 +33,11 @@
 ## 📂 精選清單
 
 <!-- START_GITHUB_LISTS -->
+### 📂 [Browser Extension](https://github.com/stars/tsz7250/lists/browser-extension)
+- [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `  
+  基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
+
+
 ### 📂 [UG-Final Projects](https://github.com/stars/tsz7250/lists/ug-final-projects)
 - [**1142_OpenPlatformSoftware_Final**](https://github.com/tsz7250/1142_OpenPlatformSoftware_Final) ` Python `  
   基於混合檢索與 LLM 技術之專利問答系統，專為中華民國智慧財產局（TIPO）專利常見問答 (FAQ) 開放資料集打造。
@@ -49,6 +54,7 @@
 
 ### 📂 [UG-Homeworks](https://github.com/stars/tsz7250/lists/ug-homeworks)
 - [**1142_AI-assistedSoftwareDevelopment**](https://github.com/tsz7250/1142_AI-assistedSoftwareDevelopment) ` C++ `  
+  應用 AI 輔助軟體開發生命週期，包含需求、設計、測試、CI/CD 與 Docker 部署。實作 Two Sum 演算法與 CSV 查詢引擎。
 
 - [**1131_Chatbot**](https://github.com/tsz7250/1131_Chatbot) ` Python `  
   AI 聊天機器人集合：包含 Gemini 網頁聊天機器人、Line Bot、情感分析機器人、翻譯機器人、文字轉語音機器人等。
@@ -73,11 +79,11 @@
 - [**n8n-launcher**](https://github.com/tsz7250/n8n-launcher) ` Shell `  
   用於 Windows 的 n8n Docker 容器管理工具，提供圖形化選單介面來管理 n8n 工作流程自動化平台，支援一鍵啟動、自動配置、版本管理、資料備份與還原等功能。
 
-- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` JavaScript `  
-  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
-
 - [**Currency_chart**](https://github.com/tsz7250/Currency_chart) ` Python `  
   使用 Python Flask 框架開發多幣種匯率走勢圖，支援近 7／30／90／180 天圖表、幣別搜尋與交換，並在背景自動更新資料。
+
+- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` JavaScript `  
+  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
 
 
 <!-- END_GITHUB_LISTS -->
