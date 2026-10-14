@@ -29,7 +29,6 @@ jobs:
           card: top-langs
           options: username=tsz7250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&exclude_repo=undergrad-archive
           path: profile/top-langs.svg
-          token: ${{ secrets.GH_PAT }}
 
       - name: Commit updated SVGs
         run: |
