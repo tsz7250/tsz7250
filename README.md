@@ -34,39 +34,10 @@
 
 <!-- START_GITHUB_LISTS -->
 ### 📂 [Browser Extension](https://github.com/stars/tsz7250/lists/browser-extension)
+- [**Netflix-Ratings**](https://github.com/tsz7250/Netflix-Ratings) ` TypeScript `  
+
 - [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `  
   基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
-
-
-### 📂 [UG-Final Projects](https://github.com/stars/tsz7250/lists/ug-final-projects)
-- [**1142_OpenPlatformSoftware_Final**](https://github.com/tsz7250/1142_OpenPlatformSoftware_Final) ` Python `  
-  基於混合檢索與 LLM 技術之專利問答系統，專為中華民國智慧財產局（TIPO）專利常見問答 (FAQ) 開放資料集打造。
-
-- [**1131_Chatbot_Final**](https://github.com/tsz7250/1131_Chatbot_Final) ` Python `  
-  多模態聊天機器人，整合了電影相關的 AI 服務，包括智能對話、電影搜尋、圖片識別和字幕翻譯等功能。
-
-- [**1122_Web_Final**](https://github.com/tsz7250/1122_Web_Final) ` HTML `  
-  使用 Python Flask 框架開發的餐廳訂餐系統模擬應用程式，並應用了 PlotlyJS、Google Gemini、HTML5 Canvas 等技術。
-
-- [**1111_WebProgramming_Final**](https://github.com/tsz7250/1111_WebProgramming_Final) ` HTML `  
-  製作隨機選擇器，功能有進行食物類別、餐廳篩選的學餐隨機選擇器。使用者可以註冊帳號，使用記帳功能。
-
-
-### 📂 [UG-Homeworks](https://github.com/stars/tsz7250/lists/ug-homeworks)
-- [**1142_AI-assistedSoftwareDevelopment**](https://github.com/tsz7250/1142_AI-assistedSoftwareDevelopment) ` C++ `  
-  應用 AI 輔助軟體開發生命週期，包含需求、設計、測試、CI/CD 與 Docker 部署。實作 Two Sum 演算法與 CSV 查詢引擎。
-
-- [**1131_Chatbot**](https://github.com/tsz7250/1131_Chatbot) ` Python `  
-  AI 聊天機器人集合：包含 Gemini 網頁聊天機器人、Line Bot、情感分析機器人、翻譯機器人、文字轉語音機器人等。
-
-- [**1122_WebsiteProgrammingPractice**](https://github.com/tsz7250/1122_WebsiteProgrammingPractice) ` JavaScript `  
-  網頁開發作業：驗證碼系統、資料處理（.csv/.xml）、Google Charts 折線圖、篩選查詢等。
-
-- [**1112_ComputerProgramming**](https://github.com/tsz7250/1112_ComputerProgramming) ` C++ `  
-  C++ 物件導向：Fibonacci Sequence、編碼機、Graph 和 Spanning Tree、撲克牌遊戲、多型計算四邊形。
-
-- [**1122_HDL**](https://github.com/tsz7250/1122_HDL) ` VHDL `  
-  VHDL 數位電路設計：包含 ALU、狀態機、計數器、LED 控制、紅綠燈控制等 15 個實驗專案。
 
 
 ### 📂 [Side Projects](https://github.com/stars/tsz7250/lists/side-projects)
@@ -82,8 +53,8 @@
 - [**Currency_chart**](https://github.com/tsz7250/Currency_chart) ` Python `  
   使用 Python Flask 框架開發多幣種匯率走勢圖，支援近 7／30／90／180 天圖表、幣別搜尋與交換，並在背景自動更新資料。
 
-- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` JavaScript `  
-  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
+- [**ezoe-work_scraper**](https://github.com/tsz7250/ezoe-work_scraper) ` Python `  
+  針對 ezoe.work 抓取文章，並輸出為格式化的 DOCX 與 PDF。
 
 
 <!-- END_GITHUB_LISTS -->
