@@ -35,9 +35,10 @@
 <!-- START_GITHUB_LISTS -->
 ### 📂 [Browser Extension](https://github.com/stars/tsz7250/lists/browser-extension)
 - [**Netflix-Ratings**](https://github.com/tsz7250/Netflix-Ratings) ` TypeScript `  
+  Displays IMDb, Rotten Tomatoes, Metacritic, Trakt, TMDb, and Letterboxd ratings directly on the Netflix web interface.
 
 - [**add-subtitles-extended**](https://github.com/tsz7250/add-subtitles-extended) ` JavaScript `  
-  基於原始 add-subtitles 瀏覽器插件新增簡繁自動轉換功能，並修復原本的功能缺陷。
+  Based on the original add-subtitles browser extension, add an automatic Traditional/Simplified Chinese conversion feature and fix existing bugs in the original functionality.
 
 
 ### 📂 [Side Projects](https://github.com/stars/tsz7250/lists/side-projects)
