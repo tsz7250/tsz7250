@@ -54,8 +54,8 @@
 - [**Currency_chart**](https://github.com/tsz7250/Currency_chart) ` Python `  
   使用 Python Flask 框架開發多幣種匯率走勢圖，支援近 7／30／90／180 天圖表、幣別搜尋與交換，並在背景自動更新資料。
 
-- [**ezoe-work_scraper**](https://github.com/tsz7250/ezoe-work_scraper) ` Python `  
-  針對 ezoe.work 抓取文章，並輸出為格式化的 DOCX 與 PDF。
+- [**bible-tracker**](https://github.com/tsz7250/bible-tracker) ` JavaScript `  
+  一個以 LINE Bot + Google Apps Script (GAS) 打造的讀經進度紀錄應用，幫助小組成員記錄每日讀經、追蹤完成度，並查看群組統計排名。
 
 
 <!-- END_GITHUB_LISTS -->
